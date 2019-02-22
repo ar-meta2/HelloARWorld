@@ -8,3 +8,9 @@ First project implemented for the Meta 2 platform in Unity.
 <div>
 <img src = "./Screenshots/helloarworld-concept.jpg" width = "500">
 </div>
+
+<div>
+<img src = "./Screenshots/helloarconcrete1.jpg" width = "250">
+<img src = "./Screenshots/helloarconcrete2.jpg" width = "250">
+<img src = "./Screenshots/helloarconcrete3.jpg" width = "250">
+</div>
